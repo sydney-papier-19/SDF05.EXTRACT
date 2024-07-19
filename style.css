@@ -51,4 +51,14 @@ p {
     outline: none;
 }
 
+.btn-1{
+    border-color: aqua;
+    color:rgb(14, 81, 59);
+    box-shadow: 0 0 40px aqua inset, 0 0 0 0 aqua;
+    transition:all 150ms ease-in-out;
+    &:hover {
+        box-shadow: 0 0 10px 0 aqua inset, 0 0 10px 4px aqua;
+    }
+
+}
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
