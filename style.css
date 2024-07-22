@@ -82,7 +82,7 @@ p {
     box-shadow: rgba(11, 150, 11, 0.941);
     background-image:linear-gradient(to left, rgb(4, 126, 4), 
     rgb(11, 150, 11), rgba(72, 232, 72, 0.868), rgba(160, 247, 131, 0.826));
-    animation: slidebg 1.5s linear infinite;
+    animation: slidebg 2s linear infinite;
 }
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 *
